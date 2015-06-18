@@ -11,10 +11,10 @@ open `http://localhost:8000/` in browser
 
 ##Tests
 
-- unit  
-`npm test`  
+- Unit
+`npm test`
 
-- e2e  
-`npm start`  
+- E2E
+`npm start`
 `npm run webdriver` - if error, run `npm run update-webdriver` first  
-`npm run protractor`  
+`npm run protractor`

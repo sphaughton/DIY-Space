@@ -1,0 +1,29 @@
+{
+  "name": "DIY-Space",
+  "version": "0.0.0",
+  "authors": [
+    "Sean Haughton"
+  ],
+  "description": "DIY Space For London"
+  "keywords": [
+    "node",
+    "angular",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.0"
+  }
+}

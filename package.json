@@ -1,5 +1,5 @@
 {
-  "name": "make-at-os",
+  "name": "DIY-Space",
   "version": "1.0.0",
   "description": "boiler plate for node",
   "main": "server.js",
@@ -14,10 +14,9 @@
     "protractor": "protractor test/e2e/conf.js"
   },
   "keywords": [
-    "node",
-    "boilerplate"
+    "node"
   ],
-  "author": "Sanda Golcea",
+  "author": "Sean Haughton",
   "license": "ISC",
   "dependencies": {
     "express": "^4.12.4"

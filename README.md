@@ -7,7 +7,7 @@ Redesign of the website for London-based social centre [DIY Space For London](ht
 `npm install`  
 `bower install`  
 `npm start`  
-*goto localhost:8000/*
+open `http://localhost:8000/` in browser
 
 ##Tests
 

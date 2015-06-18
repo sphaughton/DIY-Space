@@ -7,11 +7,8 @@ app.config(function($routeProvider) {
 });
 
 app.controller('MainController', ['$http', function($http) {
-
   var self = this;
-
   $http.get('http://diyspaceforlondon.org/wp-json/posts').success(function(data) {
     self.blog_data = data;
   });
-
 }]);

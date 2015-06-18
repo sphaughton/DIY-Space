@@ -9,8 +9,4 @@ describe('MainController', function() {
         $scope: scope,
     });
   }));
-
-  it('initialises with an empty search result and term', function() {
-    expect(scope.users.length).toEqual(2);
-  });
 });
